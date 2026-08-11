@@ -9,4 +9,9 @@
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/ayushmishra20/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/ayushmishra20/leetcode/tree/master/1528-shuffle-string) |
+## Array
+|  |
+| ------- |
+| [1528-shuffle-string](https://github.com/ayushmishra20/leetcode/tree/master/1528-shuffle-string) |
 <!---LeetCode Topics End-->
