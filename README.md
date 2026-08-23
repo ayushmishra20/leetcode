@@ -23,6 +23,7 @@
 | [0014-longest-common-prefix](https://github.com/ayushmishra20/leetcode/tree/master/0014-longest-common-prefix) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushmishra20/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/ayushmishra20/leetcode/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/ayushmishra20/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/ayushmishra20/leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/ayushmishra20/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
