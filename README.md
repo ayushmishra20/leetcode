@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushmishra20/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ayushmishra20/leetcode/tree/master/0014-longest-common-prefix) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushmishra20/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/ayushmishra20/leetcode/tree/master/1528-shuffle-string) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushmishra20/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushmishra20/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ayushmishra20/leetcode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
