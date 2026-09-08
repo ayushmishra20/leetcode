@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/ayushmishra20/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ayushmishra20/leetcode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/ayushmishra20/leetcode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/ayushmishra20/leetcode/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushmishra20/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/ayushmishra20/leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/ayushmishra20/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushmishra20/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0283-move-zeroes](https://github.com/ayushmishra20/leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
