@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ayushmishra20/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ayushmishra20/leetcode/tree/master/0013-roman-to-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayushmishra20/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## String
