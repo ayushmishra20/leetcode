@@ -28,6 +28,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushmishra20/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushmishra20/leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ayushmishra20/leetcode/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmishra20/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ayushmishra20/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ayushmishra20/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ayushmishra20/leetcode/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ayushmishra20/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushmishra20/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushmishra20/leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmishra20/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ayushmishra20/leetcode/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
@@ -104,4 +106,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayushmishra20/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmishra20/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
